@@ -1,0 +1,3 @@
+data/
+mnist_cnn
+*.o
